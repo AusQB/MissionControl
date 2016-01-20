@@ -1,0 +1,92 @@
+{layout="_includes/.html-layout"}
+
+{if segment_2 != ''}
+
+{layout:set name="meta"}
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="{site_name}" />
+<meta property="og:url" content="{current_url}" />
+{exp:channel:entries channel="episodes" limit="1"}
+<meta property="og:title" content="{title}" />
+<meta property="og:image" content="{site_url}{image}{url}{/image}" />
+<meta property="og:description" content="{summary}" />
+{/exp:channel:entries}
+{/layout:set}
+
+{layout:set name="head_js"}
+<script type="text/javascript">var switchTo5x=true;</script>
+<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript">stLight.options({publisher: "00290e35-2d4c-435f-ae0f-3332b3df943d", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
+{/layout:set}
+
+{layout:set name="foot_js"}
+<script>
+var audioplayer = $('#audio'),
+	audio    	= $('#audio').get(0),
+	progress 	= $('.audio-progress'),
+	progressbar = $('.audio-progress-bar'),
+	volume 		= 1;
+$(function() {
+	$('.listen-btn').click(function(e) {
+		if(audio.paused) {
+			audio.play();
+			$(this).text('Pause');
+		} else {
+			audio.pause();
+			$(this).text('Play');
+		}
+	});
+	audioplayer.on('timeupdate', updateProgress);
+	progress.click(function(e) {
+		var xPos = e.pageX - $(this).parent().offset().left;
+		audio.currentTime = (audio.duration / progress.width()) * xPos;
+	});
+	$('.playpause').click(function() {
+		if(audio.paused) {
+			audio.play();
+			$(this).find('i').removeClass('fa-play').addClass('fa-pause');
+		} else {
+			audio.pause();
+			$(this).find('i').removeClass('fa-pause').addClass('fa-play');
+		}
+	});
+	$('.volume').click(function() {
+		if(audio.muted) {
+			audio.muted = false;
+			$(this).find('i').removeClass('fa-volume-off').addClass('fa-volume-up');
+		} else {
+			audio.muted = true;
+			$(this).find('i').removeClass('fa-volume-up').addClass('fa-volume-off');
+		}
+	});
+	audioplayer.on('ended', function() {
+		$('.playpause').find('i').removeClass('fa-play fa-pause').addClass('fa-repeat');
+	});
+});
+$(window).load(function() {
+	$('.duration').text(formatTime(audio.duration));
+});
+function updateProgress() {
+	var value = 0;
+	if(audio.currentTime > 0) {
+		$('.current-time').text(formatTime(audio.currentTime));
+		value = (audio.currentTime / audio.duration) * progress.width();
+	}
+	progressbar.css('width', value);
+}
+function formatTime(seconds) {
+var hh = Math.floor(seconds / 3600);
+var mm = Math.floor((seconds % 3600) / 60);
+var ss = Math.floor((seconds % 3600) % 60);
+var time = '';
+if(hh > 0) time += hh < 10 ? '0'+hh+':' : hh+':';
+time += mm < 10 ? '0'+mm+':' : mm+':';
+time += ss < 10 ? '0'+ss : ss;
+return time;
+}
+</script>
+{/layout:set}
+
+{/if}
+
+{layout:contents}

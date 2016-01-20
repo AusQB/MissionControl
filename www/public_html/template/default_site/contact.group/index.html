@@ -1,0 +1,56 @@
+{layout="contact/.layout"}
+
+<!-- <div class="row">
+	<div class="large-12 columns">
+		<h1>Contact</h1>
+	</div>
+</div> -->
+
+<div class="row">
+	<div class="large-12 columns">
+		<p>Mission Control is a Perth (Australia) based podcast which has uncensored conversations with musicians, artists and anyone in the creative industry. It is an open forum for discussions about truth, life and the universe, without the rigid formalities of radio.</p>
+
+		<p>Hosted by Darrell Sundai (<a href="https://twitter.com/darrell_fox" target="_blank">@darrell_fox</a>) and JohnnyG (<a href="https://twitter.com/Phoenix1350" target="_blank">@Phoenix1350</a>).</p>
+	</div>
+</div>
+
+<div class="row">
+	<div class="large-12 columns">
+		<div class="row">
+			<div class="large-12 columns">
+				<h2>Fill out the form!</h2>
+			</div>
+		</div>
+		{exp:freeform:form form_name="contact"}
+		<div class="row">
+			<div class="medium-6 columns">
+				<div class="row">
+					<div class="large-6 columns">
+					{freeform:field:first_name attr:placeholder="First Name (required)" attr:required="required"}
+					</div>
+					<div class="large-6 columns">
+					{freeform:field:last_name attr:placeholder="Last Name"}
+					</div>
+				</div>
+				<div class="row">
+					<div class="large-12 columns">
+					{freeform:field:email attr:placeholder="Email (required)" attr:required="required"}
+					</div>
+				</div>
+			</div>
+			<div class="medium-6 columns">
+				<div class="row">
+					<div class="large-12 columns">
+					{freeform:field:user_message attr:placeholder="Message"}
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="large-12 columns clearfix">
+				<button class="right" type="submit" name="submit">Submit</button>
+			</div>
+		</div>
+		{/exp:freeform:form}
+	</div>
+</div>

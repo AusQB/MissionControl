@@ -1,0 +1,31 @@
+{exp:channel:entries channel="episodes" entry_id="{embed:entry_id}" limit="1"}
+
+<div id="related-articles">
+
+<h3>Related Links</h3>
+
+<ul class="small-block-grid-1 medium-block-grid-3 square-grid">
+
+{related_articles}
+	{related_articles:blog_article}
+	<li class="related-article" style="background-image:url({related_articles:blog_article:blog_image}{url}{/related_articles:blog_article:blog_image})">
+		<a href="{path='blog/{related_articles:blog_article:url_title}'}" target="_blank">
+			<h5 class="related-article-title">{related_articles:blog_article:title}</h5>
+		</a>
+	</li>
+	{/related_articles:blog_article}
+{/related_articles}
+
+{external_links}
+<li class="related-article" style="background-image:url({external_links:link_image}{url}{/external_links:link_image})">
+	<a href="{external_links:link_url}" target="_blank">
+		<h5 class="related-article-title">{external_links:link_title}</h5>
+	</a>
+</li>
+{/external_links}
+
+</ul>
+
+</div>
+
+{/exp:channel:entries}

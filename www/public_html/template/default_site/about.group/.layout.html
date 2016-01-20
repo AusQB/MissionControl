@@ -1,0 +1,30 @@
+{layout="_includes/.html-layout"}
+
+{layout:set name="foot_js"}
+<script src="{assets}/js/vendor/jquery.collapse.js"></script>
+<script>
+$(function() {
+	$('#faq-container').collapse({
+		accordion: false,
+		open: function() {
+			this.addClass('open');
+			this.css({ height: this.children().outerHeight() });
+		},
+		close: function() {
+			this.css({ height: '0px' });
+			this.removeClass('open');
+		}
+	});
+
+	$('#faq-container').on('opened', function(e, section) {
+		$(e.target).find('span').text('-');
+	});
+
+	$('#faq-container').on('closed', function(e, section) {
+		$(e.target).find('span').text('+');
+	});
+});
+</script>
+{/layout:set}
+
+{layout:contents}

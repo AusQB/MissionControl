@@ -1,0 +1,24 @@
+{layout="_includes/.html-layout"}
+
+{if segment_2 != ''}
+
+{layout:set name="meta"}
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="{site_name}" />
+<meta property="og:url" content="{current_url}" />
+{exp:channel:entries channel="blog" limit="1"}
+<meta property="og:title" content="{title}" />
+<meta property="og:image" content="{site_url}{blog_image}{url}{/blog_image}" />
+<meta property="og:description" content="{blog_subtitle}" />
+{/exp:channel:entries}
+{/layout:set}
+
+{layout:set name="head_js"}
+<script type="text/javascript">var switchTo5x=true;</script>
+<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript">stLight.options({publisher: "00290e35-2d4c-435f-ae0f-3332b3df943d", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
+{/layout:set}
+
+{/if}
+
+{layout:contents}

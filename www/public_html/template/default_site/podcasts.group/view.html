@@ -1,0 +1,134 @@
+<div class="row">
+	<div class="large-8 medium-8 columns">
+
+		{exp:channel:entries channel="episodes" url_title="{embed:entry}" limit="1"}
+		<div class="row">
+			<div class="large-12 columns">
+				<div class="entry episode">
+
+					<div class="entry-image" style="background-image:url({image}{url}{/image});">
+						<!-- <button class="listen-btn left">Listen</button> -->
+						<audio id="audio">
+							<source src="{mp3}{url}{/mp3}" type="audio/mpeg">
+						</audio>
+						<div class="audio-player">
+							<div class="audio-panel">
+								<div class="audio-progress clearfix">
+									<div class="audio-progress-bar"></div>
+								</div>
+								<div class="audio-controls clearfix">
+									<ul class="left clearfix">
+										<li class="playpause"><i class="fa fa-play"></i></li>
+										<li class="volume"><i class="fa fa-volume-up"></i></li>
+										<li class="time"><span class="current-time">00:00</span> / <span class="duration">00:00</span></li>
+									</ul>
+									<ul class="right clearfix">
+										<li class="download"><a href="/podcasts/download?file={mp3}{url}{/mp3}"><i class="fa fa-download"></i></a></li>
+									</ul>
+								</div>
+							</div>
+						</div>
+					</div>
+
+					<article class="entry-details">
+						<header>
+							<h1 class="entry-title">{title}</h1>
+							<h2 class="entry-subtitle">{subtitle}</h2>
+							<h5 class="entry-date">Posted on {entry_date format="%j %F %Y"}</h5>
+						</header>
+
+						<p class="episode-summary">{summary}</p>
+
+						<footer>
+							<div>
+								<span class='st_facebook_large' displayText='Facebook'></span>
+								<span class='st_twitter_large' displayText='Tweet'></span>
+								<span class='st_sharethis_large' displayText='ShareThis'></span>
+							</div>
+						</footer>
+					</article>
+
+					{embed="podcasts/related" entry_id="{entry_id}"}
+
+				</div>
+			</div>
+		</div>
+		{/exp:channel:entries}
+
+		<div class="row">
+			<div class="large-12 columns">
+				<h3>Comments</h3>
+				{exp:comment:entries channel="episodes" url_title="{embed:entry}" sort="asc"}
+					<div class="comment">
+						<div class="comment-header clearfix">
+							<span class="left"><strong>{name}</strong></span>
+							<span class="right">{comment_date format="%g:%i%A %j/%n/%y"}</span>
+						</div>
+						<div class="comment-body">
+						{comment}
+						</div>
+					</div>
+				{/exp:comment:entries}
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="large-12 columns">
+				{exp:comment:form channel="episodes" url_title="{embed:entry}"}
+
+				<h5>Post a comment</h5>
+
+				<div class="row">
+					<div class="large-4 medium-12 columns">
+
+						<div class="row">
+							<div class="large-12 columns">
+								<input type="text" name="name" value="{name}" placeholder="Name" required>
+							</div>
+						</div>
+						<div class="row">
+							<div class="large-12 columns">
+								<input type="text" name="email" value="{email}" placeholder="Email" required>
+							</div>
+						</div>
+
+					</div>
+
+					<div class="large-8 medium-12 columns">
+
+						<div class="row">
+							<div class="medium-12 columns">
+								<textarea name="comment" rows="4">{comment}</textarea>
+							</div>
+						</div>
+						<div class="row">
+							<div class="medium-12 columns clearfix">
+								<input type="checkbox" name="notify_me" value="yes" {notify_me}><label>Subscribe to these comments?</label>
+								<button class="right" type="submit" name="submit">Submit</button>
+							</div>
+						</div>
+
+					</div>
+				</div>
+
+				{if comments_disabled}
+
+				<p><i class="fa fa-ban"></i> Comments have been disabled for this episode</p>
+
+				{/if}
+
+				{/exp:comment:form}
+
+			</div>
+		</div>
+
+	</div>
+
+	<div class="large-4 medium-4 columns">
+		<div id="sidebar">
+		{embed="_sidebar/mailing-list"}
+		{embed="_sidebar/donate"}
+		</div>
+	</div>
+
+</div>

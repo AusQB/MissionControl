@@ -1,0 +1,35 @@
+{layout="blog/.layout"}
+
+{if segment_2 != ''}
+
+{embed="blog/view" entry="{segment_2}"}
+
+{if:else}
+
+<!-- <div class="row">
+	<div class="large-12 columns">
+		<h1>Blog</h1>
+	</div>
+</div> -->
+
+<div class="row">
+	<div class="large-12 columns">
+		<ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-3 square-grid blog-grid">
+			{exp:channel:entries channel="blog"}
+			<li class="grid-block">
+				<a href="{url_title_path='blog'}">
+					<div class="grid-image" style="background-image:url({blog_image}{url}{/blog_image})">
+						<span style="font-size:1.2rem;position:absolute;top:5px;right:10px;color:#fff;text-shadow:0 1px 5px #000;">{entry_date format="%j/%n/%y"}</span>
+						<div class="grid-details">
+							<h2 class="grid-title">{title}</h2>
+							<h3 class="grid-subtitle">{blog_subtitle}</h3>
+						</div>
+					</div>
+				</a>
+			</li>
+			{/exp:channel:entries}
+		</ul>
+	</div>
+</div>
+
+{/if}

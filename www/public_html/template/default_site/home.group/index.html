@@ -1,0 +1,70 @@
+{layout="home/.layout"}
+
+<div class="row">
+	<div class="large-12 columns">
+		<div id="slider">
+			{exp:channel:entries channel="episodes" limit="5"}
+			<div>
+				<div class="feature-episode feature-image" style="background-image:url({image}{url}{/image});">
+					<a href="{url_title_path='podcasts'}">
+						<div class="feature-details">
+							<!-- <h2>Latest episode</h2> -->
+							<h2>{title}</h2>
+							<p>Click to listen</p>
+							<!-- <div class="clearfix">
+								<a class="button right" href="{url_title_path='podcasts'}">
+									<h4>Listen Now</h4>
+								</a>
+							</div> -->
+						</div>
+					</a>
+				</div>
+			</div>
+			{/exp:channel:entries}
+		</div>
+	</div>
+</div>
+
+<div class="row">
+	<div class="medium-8 columns">
+
+		<!-- <div style="height: 200px;width:100%;border:2px solid #666;margin: 0 0 20px;padding:20px;">
+		Placeholder for music player
+		</div> -->
+
+		<ul id="home-blog" class="large-block-grid-2 small-block-grid-1 blog-grid">
+			{exp:channel:entries channel="blog" limit="6"}
+			<li class="grid-block">
+				<a href="{url_title_path='blog'}">
+					<div class="row">
+						<div class="large-12 medium-5 columns">
+							<div class="grid-image" style="background-image:url({blog_image}{url}{/blog_image})">
+								<span style="font-size:1.2rem;position:absolute;top:5px;right:10px;color:#fff;text-shadow:0 1px 5px #000;">{entry_date format="%j/%n/%y"}</span>
+							</div>
+						</div>
+						<div class="large-12 medium-7 columns">
+							<div class="grid-details">
+								<h2 class="grid-title">{title}</h2>
+								<h3 class="grid-subtitle">{blog_subtitle}</h3>
+								<!-- <div class="clearfix">
+									<span class="left" style="font-size: 0.8rem;">{entry_date format="%j/%n/%y"}</span>
+									<span class="right" style="font-size: 0.8rem;">READ MORE</span>
+								</div> -->
+								<!-- <h3>{title}</h3>
+								<p>{entry_date format="%g:%i%A %j/%n/%y"}</p> -->
+							</div>
+						</div>
+					</div>
+				</a>
+			</li>
+			{/exp:channel:entries}
+		</ul>
+
+	</div>
+	<div class="medium-4 columns">
+		<div id="sidebar">
+		{embed="_sidebar/mailing-list"}
+		{embed="_sidebar/donate"}
+		</div>
+	</div>
+</div>

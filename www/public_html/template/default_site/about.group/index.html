@@ -1,0 +1,55 @@
+{layout="about/.layout"}
+
+<!-- <div class="row">
+	<div class="large-12 columns">
+		<h1>About</h1>
+	</div>
+</div> -->
+
+<div class="row">
+	<div class="large-12 columns">
+		<p>Mission Control is a Perth (Australia) based podcast which has uncensored conversations with musicians, artists and anyone in the creative industry. It is an open forum for discussions about truth, life and the universe, without the rigid formalities of radio.</p>
+
+		<p>Hosted by Darrell Sundai and JohnnyG.</p>
+
+		<h2>Presenters</h2>
+
+		<div class="row">
+			<div class="medium-6 columns">
+				<div class="clearfix">
+					<h3 class="left">Darrell</h3>
+					<a class="right" style="margin:0.5rem 0 0;" href="https://twitter.com/darrell_fox" target="_blank"><i class="fa fa-twitter-square"></i> @darrell_fox</a>
+				</div>
+				<p>Music Industry lurker, drummer, gaming nerd and podcast addict.</p>
+				<img style="margin:0 0 2rem;" src="{assets}/img/daz.jpg" />
+				<!-- <p><a href="https://twitter.com/darrell_fox" target="_blank"><i class="fa fa-twitter-square"></i> @darrell_fox</a></p> -->
+			</div>
+			<div class="medium-6 columns">
+				<div class="clearfix">
+					<h3 class="left">Johnny-G</h3>
+					<a class="right" style="margin:0.5rem 0 0;" href="https://twitter.com/Phoenix1350" target="_blank"><i class="fa fa-twitter-square"></i> @Phoenix1350</a>
+				</div>
+				<p>Musician, Graphic Designer, Creative Genius, Sci-fi nerd</p>
+				<img style="margin:0 0 2rem;" src="{assets}/img/john.jpg" />
+				<!-- <p><a href="https://twitter.com/Phoenix1350" target="_blank"><i class="fa fa-twitter-square"></i> @Phoenix1350</a></p> -->
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="row">
+	<div class="large-12 columns">
+		<h2>FAQ</h2>
+
+		<div id="faq-container">
+			{exp:channel:entries channel="faq" sort="asc"}
+			<h5 class="faq-title dotted-heading clearfix">{title}<span class="right">+</span></h5>
+			<div>
+				<div class="content">
+					{answer}
+				</div>
+			</div>
+			{/exp:channel:entries}
+		</div>
+	</div>
+</div>

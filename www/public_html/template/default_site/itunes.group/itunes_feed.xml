@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+
+	<channel>
+
+		<title>Mission Control</title>
+		<link>http://missionctrl.com.au</link>
+		<language>en-us</language>
+		<copyright>&#xA9; 2013 Mission Control</copyright>
+		<itunes:subtitle>Perth's Alternative Podcast</itunes:subtitle>
+		<itunes:author>Mission Control</itunes:author>
+		<itunes:summary>Mission Control is a Perth (Australia) based podcast which has uncensored conversations with musicians, artists and anyone in the creative industry.  It is an open forum for discussions about truth, life and the universe, without the rigid formalities of radio. Hosted by Darrell Sundai and Johnny-G.</itunes:summary>
+		<description>Mission Control is a Perth (Australia) based podcast which has uncensored conversations with musicians, artists and anyone in the creative industry.  It is an open forum for discussions about truth, life and the universe, without the rigid formalities of radio. Hosted by Darrell Sundai and Johnny-G.</description>
+		<itunes:owner>
+			<itunes:name>Mission Control</itunes:name>
+			<itunes:email>info@missionctrl.com.au</itunes:email>
+		</itunes:owner>
+		<itunes:image href="{site_url}{assets}/img/mc_logo_1400.jpg" />
+		<itunes:category text="Arts">
+			<itunes:category text="Performing Arts"/>
+		</itunes:category>
+		<itunes:category text="Comedy"/>
+		<itunes:category text="News &amp; Politics"/>
+		<itunes:category text="Music"/>
+		<itunes:explicit>yes</itunes:explicit>
+
+		{exp:channel:entries channel="episodes"}
+		<item>
+			<title>{title}</title>
+			<itunes:author>Mission Control</itunes:author>
+			<itunes:subtitle>{subtitle}</itunes:subtitle>
+			<itunes:summary>{summary}</itunes:summary>
+			<itunes:image href="{site_url}{assets}/img/mc_logo_1400.jpg" />
+			{mp3}
+			<enclosure url="{url}" length="{file_size}" type="audio/mpeg" />
+			<guid>{if guid}{guid}{if:else}{url}{/if}</guid>
+			{/mp3}
+			<pubDate>{entry_date format="%D, %j %M %Y %H:%i:%s %O"}</pubDate>
+			<itunes:duration>{duration}</itunes:duration>
+		</item>
+		{/exp:channel:entries}
+
+	</channel>
+
+</rss>

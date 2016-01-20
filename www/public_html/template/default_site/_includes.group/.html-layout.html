@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    
+    {exp:seo_lite use_last_segment="yes"}
+
+    {layout:meta}
+
+    <link rel="icon" href="{assets}/img/favicon.ico">
+
+    {layout:css}
+
+    <link href='http://fonts.googleapis.com/css?family=Oswald:400,300,700|Roboto+Condensed:400,300,700' rel='stylesheet' type='text/css'>
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="{assets}/css/foundation.min.css" />
+    <link rel="stylesheet" href="{assets}/css/main.css" />
+
+    {layout:head_js}
+
+    <script src="{assets}/js/vendor/modernizr.js"></script>
+
+</head>
+{if '{exp:detect_mobile:ismobile}'}
+<body class="mobile">
+{if:else}
+<body>
+{/if}
+
+<header style="background-image:url({assets}/img/header_bg_wide.jpg);">
+    <div class="row">
+        <div class="small-3 medium-6 columns">
+            <a id="logo" href="{site_url}">
+                <img id="logo-image" src="{assets}/img/logo.png" alt="" />
+                <img id="logo-name" src="{assets}/img/header.png" alt="{site_name}" />
+            </a>
+        </div>
+        <div class="small-9 medium-6 columns clearfix">
+            <ul id="subscribe-list" class="right">
+                <li style="background-color:#3b5998"><a href="https://www.facebook.com/MissionCtrlPodcast" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                <li style="background-color:#00aced"><a href="https://twitter.com/missionctrl_aus" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                <li style="background-color:#fd3945"><a href="https://itunes.apple.com/au/podcast/mission-control/id690057441?mt=2" target="_blank" title="iTunes"><i class="fa fa-apple"></i></a></li>
+                <li style="background-color:#fb7629"><a href="/itunes_feed.xml" target="_blank" title="RSS Feed"><i class="fa fa-rss"></i></a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="row">
+        <div class="large-12 columns">
+            <nav>
+                <ul id="menu">
+                    <!-- <li {if segment_1 == 'about'}class="active"{/if}><a href="/about">About</a></li> -->
+                    <li {if segment_1 == 'podcasts'}class="active"{/if}><a href="/podcasts">Podcasts</a></li>
+                    <li {if segment_1 == 'blog'}class="active"{/if}><a href="/blog">Blog</a></li>
+                    <li {if segment_1 == 'contact'}class="active"{/if}><a href="/contact">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+</header>
+
+<div id="contents">
+    {layout:contents}
+</div>
+
+<footer>
+	<div class="row">
+        <div class="small-6 columns">
+            <p>&copy; {site_name} {current_time format="%Y"}</p>
+        </div>
+        <div class="small-6 columns">
+            <div class="clearfix">
+                <a id="rgg-logo" class="right" href="http://rggwebdesigns.com" target="_blank"><img style="max-width:125px;" src="{assets}/img/rgg_logo_lanscape.png" /></a>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<script src="{assets}/js/vendor/jquery.js"></script>
+<script src="{assets}/js/foundation.min.js"></script>
+<script src="{assets}/js/main.js"></script>
+<script>
+    $(document).foundation();
+</script>
+
+{layout:foot_js}
+
+</body>
+</html>

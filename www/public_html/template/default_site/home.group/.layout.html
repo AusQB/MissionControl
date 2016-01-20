@@ -1,0 +1,53 @@
+{layout="_includes/.html-layout"}
+
+{layout:set name="meta"}
+<meta property="og:site_name" content="{site_name}">
+<meta property="og:title" content="{site_name} - Perth's Alternative Podcast">
+<meta property="og:url" content="{site_url}">
+<meta property="og:type" content="website">
+<meta property="og:description" content="Based in the most isolated city in the world, Perth Australia, Mission Control seeks to shine the light on alternative ideas, with a healthy dose of humor, guests and local music, while utilizing the free medium known as the podcast. Mission Control is a podcast without any restrictions or allegiances and is not afraid to delve into any topic on the planet. It is a forum for like-minded people across all lifestyles to say what they truly think.">
+<meta property="og:image" content="{assets}/img/mc_logo_1400.jpg">
+{/layout:set}
+
+{layout:set name="css"}
+<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.3.15/slick.css"/>
+<style>
+#slider{margin:0 0 20px;}
+#slider .slick-dots{bottom:0;right:0;width:auto;margin:0;padding:20px;line-height:0;}
+#slider .slick-dots li{height:15px;width:15px;}
+#slider .slick-dots li button{border:1px solid #fff;border-radius:50%;height:100%;width:100%;}
+#slider .slick-dots li.slick-active button{background:#fff;}
+#slider .slick-dots li button:before{content:'';}
+#home-blog .grid-image{height:150px;}
+#home-blog .grid-block a{display:block;background:#fff;box-shadow:0 5px 5px rgba(0,0,0,0.05);/*border:1px solid #D8D8D8;*/}
+#home-blog .grid-details{background:none;position:relative;width:auto;}
+#home-blog .grid-details *{color:#000;}
+#home-blog .grid-title{color:#963C3C!important;}
+@media only screen and (min-width: 768px) {
+#slider{margin:0 0 40px;}
+}
+@media only screen and (min-width: 40.063em) {
+#home-blog .grid-details{padding:1rem 1rem 1rem 0;}
+}
+@media only screen and (min-width: 64.063em) {
+#home-blog .grid-image{height:200px;}
+#home-blog .grid-details{height:120px;padding:1rem;}
+}
+</style>
+{/layout:set}
+
+{layout:set name="foot_js"}
+<script type="text/javascript" src="//cdn.jsdelivr.net/jquery.slick/1.3.15/slick.min.js"></script>
+<script>
+$(document).ready(function() {
+	$('#slider').slick({
+		autoplay: true,
+		autoplaySpeed: 5000,
+		arrows: false,
+		dots: true
+	});
+});
+</script>
+{/layout:set}
+
+{layout:contents}
