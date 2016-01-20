@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+
+	<channel>
+
+		<title>Mission Control</title>
+		<link>http://missionctrl.com.au</link>
+		<language>en-us</language>
+		<copyright>&#xA9; 2013 Mission Control</copyright>
+		<itunes:subtitle>Perth's Alternative Podcast</itunes:subtitle>
+		<itunes:author>Mission Control</itunes:author>
+		<itunes:summary>Mission Control is a Perth (Australia) based podcast which has uncensored conversations with musicians, artists and anyone in the creative industry.  It is an open forum for discussions about truth, life and the universe, without the rigid formalities of radio. Hosted by Darrell Sundai and Johnny-G.</itunes:summary>
+		<description>Mission Control is a Perth (Australia) based podcast which has uncensored conversations with musicians, artists and anyone in the creative industry.  It is an open forum for discussions about truth, life and the universe, without the rigid formalities of radio. Hosted by Darrell Sundai and Johnny-G.</description>
+		<itunes:owner>
+			<itunes:name>Mission Control</itunes:name>
+			<itunes:email>info@missionctrl.com.au</itunes:email>
+		</itunes:owner>
+		<itunes:image href="http://missionctrl.com.au/template/default_site/assets/img/mc_logo_1400.jpg" />
+		<itunes:category text="Arts">
+			<itunes:category text="Performing Arts"/>
+		</itunes:category>
+		<itunes:category text="Comedy"/>
+		<itunes:category text="News &amp; Politics"/>
+		<itunes:category text="Music"/>
+		<itunes:explicit>yes</itunes:explicit>
+
+		<item>
+			<title>Episode 60 - Tristan Fidler</title>
+			<itunes:author>Mission Control</itunes:author>
+			<itunes:subtitle>Featuring: Tristan Fidler</itunes:subtitle>
+			<itunes:summary><p>​Film buff Tristan Fidler drops by to chat about his comic A Rich Tapestry, Camp Doogs, his work with RTRFM’s Movie Squad, going to the movies, his new podcast ‘The Takeaway Special’, + lots more movie talk.  We end with a quick Q&amp;A on our favourite movies.</p></itunes:summary>
+			<itunes:image href="http://missionctrl.com.au/template/default_site/assets/img/mc_logo_1400.jpg" />
+			<enclosure url="http://podcasts.missionctrl.com.au/MissionCtrlEpisode60.mp3" length="77254400" type="audio/mpeg" />
+			<guid>http://podcasts.missionctrl.com.au/MissionCtrlEpisode60.mp3</guid>
+			<pubDate>Thu, 10 Dec 2015 19:06:00 +1100</pubDate>
+			<itunes:duration>1:47:17</itunes:duration>
+		</item><item>
+			<title>Episode 59 - Matthew Tomich</title>
+			<itunes:author>Mission Control</itunes:author>
+			<itunes:subtitle>Featuring: Matthew Tomich</itunes:subtitle>
+			<itunes:summary><p>​Matthew Tomich drops by for a second time to throw some questions at me. We chat about Fait, Disconnect Festival, his new position at RTRFM, the Gimme Some Truth music documentary festival, music history/genres, documenting and archiving local bands, the “hat story”, the death of VHS and cassette tapes and buttloads more!</p></itunes:summary>
+			<itunes:image href="http://missionctrl.com.au/template/default_site/assets/img/mc_logo_1400.jpg" />
+			<enclosure url="http://podcasts.missionctrl.com.au/MissionCtrlEpisode59.mp3" length="74444769" type="audio/mpeg" />
+			<guid>http://podcasts.missionctrl.com.au/MissionCtrlEpisode59.mp3</guid>
+			<pubDate>Mon, 7 Dec 2015 18:48:00 +1100</pubDate>
+			<itunes:duration>1:4323</itunes:duration>
+		</item><item>
+			<title>Episode 58 - Connor Gamble</title>
+			<itunes:author>Mission Control</itunes:author>
+			<itunes:subtitle>Featuring: Connor Gamble</itunes:subtitle>
+			<itunes:summary><p>​Connor returns to the podcast to talk writing for Pilerats, privacy laws, ethics and technology, driverless cars, addiction to mobile phones, the social media façade, the TPP, decentralising the internet, middle class slavery, the ugly side of the &#8216;sharing economy&#8217;, innovation, Uber, the new Star Wars film and much more!  <i>You can read Connor&#8217;s articles in the related links </i></p></itunes:summary>
+			<itunes:image href="http://missionctrl.com.au/template/default_site/assets/img/mc_logo_1400.jpg" />
+			<enclosure url="http://podcasts.missionctrl.com.au/MissionCtrlEpisode58.mp3" length="49851525" type="audio/mpeg" />
+			<guid>http://podcasts.missionctrl.com.au/MissionCtrlEpisode58.mp3</guid>
+			<pubDate>Thu, 3 Dec 2015 17:22:00 +1100</pubDate>
+			<itunes:duration>1:09:14</itunes:duration>
+		</item><item>
+			<title>Episode 57 - Lilt</title>
+			<itunes:author>Mission Control</itunes:author>
+			<itunes:subtitle>Featuring: Louise and Brett (Lilt)</itunes:subtitle>
+			<itunes:summary><p>​Brett and Louise from Lilt drop by to talk music, the Beaufort St Festival, Jumpclimb Events, touring with Meg Mac, the loss (and gain) of venues in Perth, sniffer dogs, the writing process, and a quick game of Would You Rather + more. </p>
+
+<p> Lilt play at Disconnect Festival on Sunday the 13th December from 2pm at the Darling View Ampitheatre. For tickets and info, go to http://www.disconnectfestival.com.au</p></itunes:summary>
+			<itunes:image href="http://missionctrl.com.au/template/default_site/assets/img/mc_logo_1400.jpg" />
+			<enclosure url="http://podcasts.missionctrl.com.au/MissionCtrlEpisode57.mp3" length="52815985" type="audio/mpeg" />
+			<guid>http://podcasts.missionctrl.com.au/MissionCtrlEpisode57.mp3</guid>
+			<pubDate>Thu, 3 Dec 2015 16:37:00 +1100</pubDate>
+			<itunes:duration>1:13:21</itunes:duration>
+		</item><item>
+			<title>Episode 56 - Sami Shah</title>
+			<itunes:author>Mission Control</itunes:author>
+			<itunes:subtitle>Featuring: Sami Shah</itunes:subtitle>
+			<itunes:summary><p>Sami Shah is a comedian and author of the book ‘I, Migrant’ and has appeared on the ABC’s Australian Story, TEDx, BBC Radio 4 and will be appearing on the final series of QI with Stephen Fry on Episode 3 (Series M) which premiers  October 30th. We chat about his recent string of shows, Rottofest, growing up in his hometown of Karachi, moving to Melbourne, his addiction to meat pies, comedy styles, the writing process, his feelings on the treatment of asylum seekers, dealing with hecklers at shows, and plenty more!</p></itunes:summary>
+			<itunes:image href="http://missionctrl.com.au/template/default_site/assets/img/mc_logo_1400.jpg" />
+			<enclosure url="http://podcasts.missionctrl.com.au/MissionCtrlEpisode56.mp3" length="50196347" type="audio/mpeg" />
+			<guid>http://podcasts.missionctrl.com.au/MissionCtrlEpisode56.mp3</guid>
+			<pubDate>Fri, 16 Oct 2015 20:11:00 +1100</pubDate>
+			<itunes:duration>1:09:43</itunes:duration>
+		</item><item>
+			<title>Episode 55 - Tor Snyder</title>
+			<itunes:author>Mission Control</itunes:author>
+			<itunes:subtitle>Featuring: Tor Snyder</itunes:subtitle>
+			<itunes:summary><p>​Comedian Tor Snyder drops by to chat about the Perth comedy scene, improv, making life changes, Rottofest 2015, hiding weed in tuna cans, Vulture Culture’s comedy events, Canada and loads more! </p>
+
+<p> We also play Mosquito Coast’s track that won them Triple J’s Unearthed High. </p>
+
+<p> ** <i>Apologies to comedian Sami Shah - due to technical difficulties we have had to reschedule his podcast to a later date</i></p></itunes:summary>
+			<itunes:image href="http://missionctrl.com.au/template/default_site/assets/img/mc_logo_1400.jpg" />
+			<enclosure url="http://podcasts.missionctrl.com.au/MissionCtrlEpisode55.mp3" length="64854487" type="audio/mpeg" />
+			<guid>http://podcasts.missionctrl.com.au/MissionCtrlEpisode55.mp3</guid>
+			<pubDate>Wed, 26 Aug 2015 16:42:00 +1000</pubDate>
+			<itunes:duration>1:30:08</itunes:duration>
+		</item><item>
+			<title>Episode 54 - Sam Maher</title>
+			<itunes:author>Mission Control</itunes:author>
+			<itunes:subtitle>Featuring: Sam Maher</itunes:subtitle>
+			<itunes:summary><p>​Sam Maher drops by to talk about his adventures around North and South America, busking rivalries in NYC, altitude sickness, planets and the universe, black holes, participating in an Ayahuasca ceremony along with his visual experiences and plenty more.  Sam also plays a song his &#8216;Hang&#8217; - a melodic, metallic percussion instrument (skip to 58:50 for song).  Sam will be performing with Katy Steele at Bigsound in Brisbane (September 9-11). </p></itunes:summary>
+			<itunes:image href="http://missionctrl.com.au/template/default_site/assets/img/mc_logo_1400.jpg" />
+			<enclosure url="http://podcasts.missionctrl.com.au/MissionCtrlEpisode54.mp3" length="56924027" type="audio/mpeg" />
+			<guid>http://podcasts.missionctrl.com.au/MissionCtrlEpisode54.mp3</guid>
+			<pubDate>Thu, 2 Jul 2015 17:58:00 +1000</pubDate>
+			<itunes:duration>1:19:04</itunes:duration>
+		</item><item>
+			<title>Episode 53 - Damien Petrilli</title>
+			<itunes:author>Mission Control</itunes:author>
+			<itunes:subtitle>Featuring: Damien Petrilli</itunes:subtitle>
+			<itunes:summary><p>​Damien is a long time friend and drum teacher who drops by for the second time. We chat about the value of good teaching, methods of learning, the potential pitfalls of trying attain speed, understanding limitations and setting goals and the Perth Drummers Facebook group. We also talk about the local music climate, venues closing down, and we delve into the artist and punter’s perspective and what can be done.</p></itunes:summary>
+			<itunes:image href="http://missionctrl.com.au/template/default_site/assets/img/mc_logo_1400.jpg" />
+			<enclosure url="http://podcasts.missionctrl.com.au/MissionCtrlEpisode53.mp3" length="79907287" type="audio/mpeg" />
+			<guid>http://podcasts.missionctrl.com.au/MissionCtrlEpisode53.mp3</guid>
+			<pubDate>Mon, 11 May 2015 17:47:00 +1000</pubDate>
+			<itunes:duration>1:50:33</itunes:duration>
+		</item><item>
+			<title>Episode 52 - Steve Hughes (Injured Ninja)</title>
+			<itunes:author>Mission Control</itunes:author>
+			<itunes:subtitle>Featuring: Steve Hughes</itunes:subtitle>
+			<itunes:summary><p>​Strap in for a long one! This 2+ hour conversation goes deep into our first memories of The Bakery, the SAFIA/Ariana Grande beef over the video for Fallopian Tube Screamer, how Injured Ninja ended up on a Japanese TV show, the story behind the Mesopotamian poem ‘The Epic of Gilgamesh’, the genesis of Camp Doogs, musical influences, vibrations/unison and synchronicity, visual art installations, technology and much much more. Injured Ninja deliver their performance of The Epic of Gilgamesh this Saturday 9th of May at the final ever Bakery show. Camp Doogs runs from October 9th to 11th.</p></itunes:summary>
+			<itunes:image href="http://missionctrl.com.au/template/default_site/assets/img/mc_logo_1400.jpg" />
+			<enclosure url="http://podcasts.missionctrl.com.au/MissionCtrlEpisode52.mp3" length="116240589" type="audio/mpeg" />
+			<guid>http://podcasts.missionctrl.com.au/MissionCtrlEpisode52.mp3</guid>
+			<pubDate>Fri, 8 May 2015 17:55:00 +1000</pubDate>
+			<itunes:duration>2:30:00</itunes:duration>
+		</item><item>
+			<title>Episode 51 - Lanark</title>
+			<itunes:author>Mission Control</itunes:author>
+			<itunes:subtitle>Featuring: Temily Seivers and Darren Sandoval (Lanark)</itunes:subtitle>
+			<itunes:summary><p>​Temily and Darren drop by the podcast to talk about Lanark’s latest performance at RTRFM’s In The Pines, their debut album and the writing process, gig stories, and we draw some pretty interesting connections from our past in the Perth music scene, and much more! Lanark support The Leap Year at the Astor Lounge on June 12th.</p></itunes:summary>
+			<itunes:image href="http://missionctrl.com.au/template/default_site/assets/img/mc_logo_1400.jpg" />
+			<enclosure url="http://podcasts.missionctrl.com.au/MissionCtrlEpisode51.mp3" length="77939630" type="audio/mpeg" />
+			<guid>http://podcasts.missionctrl.com.au/MissionCtrlEpisode51.mp3</guid>
+			<pubDate>Wed, 6 May 2015 02:02:00 +1000</pubDate>
+			<itunes:duration>1:40:33</itunes:duration>
+		</item><item>
+			<title>Episode 50 - Michael Paolino (Husband)</title>
+			<itunes:author>Mission Control</itunes:author>
+			<itunes:subtitle>Featuring: Husband</itunes:subtitle>
+			<itunes:summary><p>​Michael Paolino aka Husband drops by the podcast to talk about his upcoming performance at In The Pines, lifestyle changes, studying and Psychology, writing music, LA experiences and much more! You can catch Husband at In The Pines this Sunday the 19th of April at 3pm. </p></itunes:summary>
+			<itunes:image href="http://missionctrl.com.au/template/default_site/assets/img/mc_logo_1400.jpg" />
+			<enclosure url="http://podcasts.missionctrl.com.au/MissionCtrlEpisode50.mp3" length="57460050" type="audio/mpeg" />
+			<guid>http://podcasts.missionctrl.com.au/MissionCtrlEpisode50.mp3</guid>
+			<pubDate>Sat, 18 Apr 2015 16:25:00 +1000</pubDate>
+			<itunes:duration>1:19:48</itunes:duration>
+		</item><item>
+			<title>Episode 49 - Cory John Rist</title>
+			<itunes:author>Mission Control</itunes:author>
+			<itunes:subtitle>Featuring: Cory John Rist</itunes:subtitle>
+			<itunes:summary><p>​Comedian Cory John Rist joins us again ahead of his RAW Comedy final on Saturday the 14th of March at His Majesty&#8217;s Theatre.  We go deep about lifestyle changes, the normalisation of alcohol in our culture, Cory&#8217;s podcast &#8216;The Cough&#8217;, travelling to Los Angeles and couch surfing and much more.  We also end on a segment about Famous Death Row Meals.  </p></itunes:summary>
+			<itunes:image href="http://missionctrl.com.au/template/default_site/assets/img/mc_logo_1400.jpg" />
+			<enclosure url="http://podcasts.missionctrl.com.au/MissionCtrlEpisode49.mp3" length="93797745" type="audio/mpeg" />
+			<guid>http://podcasts.missionctrl.com.au/MissionCtrlEpisode49.mp3</guid>
+			<pubDate>Fri, 13 Mar 2015 18:39:00 +1100</pubDate>
+			<itunes:duration>3:33</itunes:duration>
+		</item><item>
+			<title>Episode 48 - Matthew Tomich (Life Is Noise)</title>
+			<itunes:author>Mission Control</itunes:author>
+			<itunes:subtitle>Featuring: Matthew Tomich</itunes:subtitle>
+			<itunes:summary><p>​Matthew Tomich is freelance writer and editor at Life Is Noise, whose work has been featured in The West Australian, Xpress Magazine, The Music and more. We talk about his recent stint in New York, forming bad habits, the downsides of excessive computer use, venue closures in Perth, tours, and some opinions on the state of media and press and loads more. We also plug Life Is Noise’s 5th birthday show at the Bakery.</p></itunes:summary>
+			<itunes:image href="http://missionctrl.com.au/template/default_site/assets/img/mc_logo_1400.jpg" />
+			<enclosure url="http://podcasts.missionctrl.com.au/MissionCtrlEpisode48.mp3" length="74041651" type="audio/mpeg" />
+			<guid>http://podcasts.missionctrl.com.au/MissionCtrlEpisode48.mp3</guid>
+			<pubDate>Tue, 10 Mar 2015 15:15:00 +1100</pubDate>
+			<itunes:duration>3:33</itunes:duration>
+		</item><item>
+			<title>Episode 47 - Rhian Todhunter and Leigh Craft (Flower Drums)</title>
+			<itunes:author>Mission Control</itunes:author>
+			<itunes:subtitle>Featuring: Rhian Todhunter and Leigh Craft</itunes:subtitle>
+			<itunes:summary><p>​Rhian Todhunter (Flower Drums/Childsaint) and Leigh Craft (Flower Drums) drop by the podcast to talk about their latest single ‘Don’t Wait’ featuring St. South, the influence behind their more chilled and electronic sound, Rhian’s work on RTRFM, past bands, community radio and how stations stay alive, video clips, their upcoming shows and much more.</p></itunes:summary>
+			<itunes:image href="http://missionctrl.com.au/template/default_site/assets/img/mc_logo_1400.jpg" />
+			<enclosure url="http://podcasts.missionctrl.com.au/MissionCtrlEpisode47.mp3" length="53335153" type="audio/mpeg" />
+			<guid>http://podcasts.missionctrl.com.au/MissionCtrlEpisode47.mp3</guid>
+			<pubDate>Thu, 5 Feb 2015 00:26:00 +1100</pubDate>
+			<itunes:duration>1:14:04</itunes:duration>
+		</item><item>
+			<title>Episode 46 - James Sher (Sugar Army)</title>
+			<itunes:author>Mission Control</itunes:author>
+			<itunes:subtitle>Featuring: James Sher</itunes:subtitle>
+			<itunes:summary><p>James Sher (Sugar Army/French Rockets) drops by the podcast, fresh off a 3 date Japan tour with Sugar Army. We talk about their 3 date stint in Japan, music, drumming setups, learning and playing drums without formal training, Tool fans, technology woes, the visual aspects of French Rockets, being a second drummer in Injured Ninja and much more. We also talk about life, the universe, and James’ experience with Ayahuasca - a powerful plant concoction originating in the Amazon which is capable of inducing altered states of consciousness.</p></itunes:summary>
+			<itunes:image href="http://missionctrl.com.au/template/default_site/assets/img/mc_logo_1400.jpg" />
+			<enclosure url="http://podcasts.missionctrl.com.au/MissionCtrlEpisode46.mp3" length="102728817" type="audio/mpeg" />
+			<guid>http://podcasts.missionctrl.com.au/MissionCtrlEpisode46.mp3</guid>
+			<pubDate>Mon, 26 Jan 2015 03:00:00 +1100</pubDate>
+			<itunes:duration>2:22:40</itunes:duration>
+		</item><item>
+			<title>Episode 45 - Jack Doepel and Alex Dew</title>
+			<itunes:author>Mission Control</itunes:author>
+			<itunes:subtitle>Featuring: Jack Doepel and Alex Dew</itunes:subtitle>
+			<itunes:summary><p>​Jack Doepel and Alex Dew perform in various projects, including Bastian’s Happy Flight, Eleventeen Eston and Mei Saraswati (in band form). We talk about their WAAPA backgrounds, learning how to become an artist in an institutionalised learning environment, managing time commitments, balancing work with creative life, Jack’s weekly curated shows called Day Woo hosted at Flyrite, solo projects and a lot more.</p></itunes:summary>
+			<itunes:image href="http://missionctrl.com.au/template/default_site/assets/img/mc_logo_1400.jpg" />
+			<enclosure url="http://podcasts.missionctrl.com.au/MissionCtrlEpisode45.mp3" length="82318510" type="audio/mpeg" />
+			<guid>http://podcasts.missionctrl.com.au/MissionCtrlEpisode45.mp3</guid>
+			<pubDate>Thu, 22 Jan 2015 19:30:00 +1100</pubDate>
+			<itunes:duration>1:54:19</itunes:duration>
+		</item><item>
+			<title>Episode 44 - Cory John Rist (Mezzanine)</title>
+			<itunes:author>Mission Control</itunes:author>
+			<itunes:subtitle>Featuring: Cory John Rist</itunes:subtitle>
+			<itunes:summary><p>Cory John Rist, frontman of Mezzanine drops by to talk about the band’s recent split and his feelings during the process, his new podcast ‘The Cough’, stand-up comedy endeavours, shitting in McDonald’s toilets, sleeping next to a chicken in a box during his travels abroad as well as plenty of general life thoughts. We also plug Mezzanine’s final ever show on January 10th at the Amplifier bar along with Tired Lion, Pat Chow and more.</p></itunes:summary>
+			<itunes:image href="http://missionctrl.com.au/template/default_site/assets/img/mc_logo_1400.jpg" />
+			<enclosure url="http://podcasts.missionctrl.com.au/MissionCtrlEpisode44.mp3" length="76977613" type="audio/mpeg" />
+			<guid>http://podcasts.missionctrl.com.au/MissionCtrlEpisode44.mp3</guid>
+			<pubDate>Mon, 5 Jan 2015 00:35:00 +1100</pubDate>
+			<itunes:duration>1:46:50</itunes:duration>
+		</item><item>
+			<title>Episode 43 - Jarrad Seng</title>
+			<itunes:author>Mission Control</itunes:author>
+			<itunes:subtitle>Featuring: Jarrad Seng</itunes:subtitle>
+			<itunes:summary><p>Photographer and all round swell dude Jarrad Seng drops by for the first podcast of 2015. We talk about his extensive travel schedule, if he’s getting sick of being called Steve Aoki, awkward parking situations, and his various exhibitions for charity including Spirit of the Maasai. We also chat life, photography and the creative industry with plenty more in between.</p></itunes:summary>
+			<itunes:image href="http://missionctrl.com.au/template/default_site/assets/img/mc_logo_1400.jpg" />
+			<enclosure url="http://podcasts.missionctrl.com.au/MissionCtrlEpisode43.mp3" length="70975601" type="audio/mpeg" />
+			<guid>http://podcasts.missionctrl.com.au/MissionCtrlEpisode43.mp3</guid>
+			<pubDate>Sun, 4 Jan 2015 13:34:00 +1100</pubDate>
+			<itunes:duration>1:38:34</itunes:duration>
+		</item><item>
+			<title>Episode 42 - Travis Johnson (Xpress Magazine)</title>
+			<itunes:author>Mission Control</itunes:author>
+			<itunes:subtitle>Featuring: Travis Johnson (Xpress Magazine)</itunes:subtitle>
+			<itunes:summary><p>Local music and arts editor of Xpress Magazine - Travis Johnson drops by the podcast to talk whiskey, the meaning of life, movies, going digital, copping abuse from writing reviews, local venues shutting down, the creative writing process, Gamergate and the gaming community, the return of Rooftop Movies and much more.</p></itunes:summary>
+			<itunes:image href="http://missionctrl.com.au/template/default_site/assets/img/mc_logo_1400.jpg" />
+			<enclosure url="http://podcasts.missionctrl.com.au/MissionCtrlEpisode42.mp3" length="73775010" type="audio/mpeg" />
+			<guid>http://podcasts.missionctrl.com.au/MissionCtrlEpisode42.mp3</guid>
+			<pubDate>Mon, 3 Nov 2014 22:51:00 +1100</pubDate>
+			<itunes:duration>1:16:50</itunes:duration>
+		</item><item>
+			<title>Episode 41 - Apache</title>
+			<itunes:author>Mission Control</itunes:author>
+			<itunes:subtitle>Featuring: Tim and Lee (Apache)</itunes:subtitle>
+			<itunes:summary><p>Tim and Lee drop by the podcast to geek out. We talk about our favourite video games, Lee&#8217;s dad being a private detective, tour horror stories, missing flights, the upcoming WAM festival, entering Stagebound and much more.</p></itunes:summary>
+			<itunes:image href="http://missionctrl.com.au/template/default_site/assets/img/mc_logo_1400.jpg" />
+			<enclosure url="http://podcasts.missionctrl.com.au/MissionCtrlEpisode41.mp3" length="72259270" type="audio/mpeg" />
+			<guid>http://podcasts.missionctrl.com.au/MissionCtrlEpisode41.mp3</guid>
+			<pubDate>Sun, 2 Nov 2014 23:33:00 +1100</pubDate>
+			<itunes:duration>1:40:21</itunes:duration>
+		</item><item>
+			<title>Episode 40 - Ben Smith (Benno)</title>
+			<itunes:author>Mission Control</itunes:author>
+			<itunes:subtitle>Featuring: Ben Smith</itunes:subtitle>
+			<itunes:summary><p>HAPPY HALLOWEEN! Ben Smith AKA &#8216;Benno&#8217; drops by for a chat about his musical experience playing in Blud and Tim and Jean, winning Unearthed high, addiction problems, mental health, the downfall of humanity and technology, and we finish off with some intense paranormal experiences with the usual whacky hilarity in between.</p></itunes:summary>
+			<itunes:image href="http://missionctrl.com.au/template/default_site/assets/img/mc_logo_1400.jpg" />
+			<enclosure url="http://podcasts.missionctrl.com.au/MissionCtrlEpisode40.mp3" length="134615216" type="audio/mpeg" />
+			<guid>http://podcasts.missionctrl.com.au/MissionCtrlEpisode40.mp3</guid>
+			<pubDate>Fri, 31 Oct 2014 17:40:00 +1100</pubDate>
+			<itunes:duration>2:20:13</itunes:duration>
+		</item><item>
+			<title>Episode 39 - Mark Neal</title>
+			<itunes:author>Mission Control</itunes:author>
+			<itunes:subtitle>Featuring: Mark Neal</itunes:subtitle>
+			<itunes:summary><p>Mark Neal drops by to chat about his recent industry work with themusic.com.au, his band The Disappointed, booking shows for the Swan Hotel, local music history, his comic book show on RTRFM, the regional music scene, the upcoming WAMI awards, creepy ghosts on recordings, staying active and busy while learning and growing in the industry, and many more topics.</p></itunes:summary>
+			<itunes:image href="http://missionctrl.com.au/template/default_site/assets/img/mc_logo_1400.jpg" />
+			<enclosure url="http://podcasts.missionctrl.com.au/MissionCtrlEpisode39.mp3" length="90099429" type="audio/mpeg" />
+			<guid>http://podcasts.missionctrl.com.au/MissionCtrlEpisode39.mp3</guid>
+			<pubDate>Mon, 27 Oct 2014 19:27:00 +1100</pubDate>
+			<itunes:duration>2:08:08</itunes:duration>
+		</item><item>
+			<title>Episode 38 - Moana</title>
+			<itunes:author>Mission Control</itunes:author>
+			<itunes:subtitle>Featuring: Moana</itunes:subtitle>
+			<itunes:summary><p>Moana Lutton (Moana) drops by to talk about her trips to the Himalayas, her musical upbringing, tripping on mushrooms, the use of psychedelics and their benefits, gender expectations in cartoons, sexism in the music industry and much more. We also feature the track &#8220;The Killer, My Girl&#8221; and talk about the making of the video and the recording of the EP.</p></itunes:summary>
+			<itunes:image href="http://missionctrl.com.au/template/default_site/assets/img/mc_logo_1400.jpg" />
+			<enclosure url="http://podcasts.missionctrl.com.au/MissionCtrlEpisode38.mp3" length="96091496" type="audio/mpeg" />
+			<guid>http://podcasts.missionctrl.com.au/MissionCtrlEpisode38.mp3</guid>
+			<pubDate>Tue, 16 Sep 2014 23:20:00 +1000</pubDate>
+			<itunes:duration>1:40:06</itunes:duration>
+		</item><item>
+			<title>Episode 37 - French Rockets</title>
+			<itunes:author>Mission Control</itunes:author>
+			<itunes:subtitle>Featuring: Carl, Roger, Jamie (French Rockets)</itunes:subtitle>
+			<itunes:summary><p>Carl, Roger and Jamie from French Rockets talk local bands and venues, the haunted Rocket Room, paranormal experiences, plain packaged cigarettes and the WA E-cig ban. We feature an exclusive track, &#8216;Bury Me&#8217; from Childsaint&#8217;s new EP, and finish with a chat about mental health, panic attacks, anxiety disorders and the struggle to adjust to a profoundly odd society. We end with French Rockets&#8217; track &#8216;Index Island&#8217;.</p>
+
+</itunes:summary>
+			<itunes:image href="http://missionctrl.com.au/template/default_site/assets/img/mc_logo_1400.jpg" />
+			<enclosure url="http://podcasts.missionctrl.com.au/MissionCtrlEpisode37.mp3" length="93453038" type="audio/mpeg" />
+			<guid>http://podcasts.missionctrl.com.au/MissionCtrlEpisode37.mp3</guid>
+			<pubDate>Wed, 10 Sep 2014 19:16:00 +1000</pubDate>
+			<itunes:duration>1:37:20</itunes:duration>
+		</item><item>
+			<title>Episode 36 - Scott Kay (Voyager/Statues)</title>
+			<itunes:author>Mission Control</itunes:author>
+			<itunes:subtitle>Featuring: Scott Kay (Voyager/Statues)</itunes:subtitle>
+			<itunes:summary><p>Scott Kay (Voyager / Statues) drops by ahead of Voyager&#8217;s national tour. We go deep into music, touring, 432 Hertz theory, the filming process of Voyager&#8217;s latest clip &#8220;Hyperventilating&#8221;, the never ending search for the &#8216;zen&#8217; state of mind in music, and much more. We also bid farewell to Johnny G as he moves over to Melbourne.</p></itunes:summary>
+			<itunes:image href="http://missionctrl.com.au/template/default_site/assets/img/mc_logo_1400.jpg" />
+			<enclosure url="http://podcasts.missionctrl.com.au/MissionCtrlEpisode36.mp3" length="87752807" type="audio/mpeg" />
+			<guid>http://podcasts.missionctrl.com.au/MissionCtrlEpisode36.mp3</guid>
+			<pubDate>Mon, 7 Jul 2014 19:52:00 +1000</pubDate>
+			<itunes:duration>1:31:24</itunes:duration>
+		</item><item>
+			<title>Episode 35 - Husband</title>
+			<itunes:author>Mission Control</itunes:author>
+			<itunes:subtitle>Featuring: Michael Paolino (Husband)</itunes:subtitle>
+			<itunes:summary><p>Michael Paolino (Husband) and partner Sarah Robinson drop by to chat about music, media, owning a business, the concept of masculinity and gender roles, the struggle of artists to assimilate into society, expectations, finding yourself, movies, recording in LA and much more. We play a track called &#8216;Sides&#8217; from Perth shoegaze act Hyla, and end with Husband&#8217;s latest single, &#8216;Caught&#8217;.</p></itunes:summary>
+			<itunes:image href="http://missionctrl.com.au/template/default_site/assets/img/mc_logo_1400.jpg" />
+			<enclosure url="http://podcasts.missionctrl.com.au/MissionCtrlEpisode35.mp3" length="76543158" type="audio/mpeg" />
+			<guid>http://podcasts.missionctrl.com.au/MissionCtrlEpisode35.mp3</guid>
+			<pubDate>Wed, 28 May 2014 11:34:00 +1000</pubDate>
+			<itunes:duration>1:19:44</itunes:duration>
+		</item><item>
+			<title>Episode 34 - Andy Jones</title>
+			<itunes:author>Mission Control</itunes:author>
+			<itunes:subtitle>Featuring: Andy Jones (King Onion)</itunes:subtitle>
+			<itunes:summary><p>Singer of Pyromesh and King Onion, and owner of Morpheus Management comes in to talk about his super-group cover nights, hitting falsettos, helping the local music scene and all kinds of nostalgia and laughs in between.</p></itunes:summary>
+			<itunes:image href="http://missionctrl.com.au/template/default_site/assets/img/mc_logo_1400.jpg" />
+			<enclosure url="http://podcasts.missionctrl.com.au/MissionCtrlEpisode34.mp3" length="85526343" type="audio/mpeg" />
+			<guid>http://podcasts.missionctrl.com.au/MissionCtrlEpisode34.mp3</guid>
+			<pubDate>Mon, 28 Apr 2014 16:30:00 +1000</pubDate>
+			<itunes:duration>1:06:58</itunes:duration>
+		</item><item>
+			<title>Episode 33 - Adam Thorn</title>
+			<itunes:author>Mission Control</itunes:author>
+			<itunes:subtitle>Featuring: Adam Thorn</itunes:subtitle>
+			<itunes:summary><p>Long time friend and animal biologist Adam Thorn drops by to talk about all things animal, including the Bearcat of Borneo, travels to South East Asia, animal bites, snakes and spiders, deforestation and palm oil. We also talk about dieting and general health and fitness concepts.</p></itunes:summary>
+			<itunes:image href="http://missionctrl.com.au/template/default_site/assets/img/mc_logo_1400.jpg" />
+			<enclosure url="http://podcasts.missionctrl.com.au/MissionCtrlEpisode33.mp3" length="84104424" type="audio/mpeg" />
+			<guid>http://podcasts.missionctrl.com.au/MissionCtrlEpisode33.mp3</guid>
+			<pubDate>Mon, 14 Apr 2014 11:54:00 +1000</pubDate>
+			<itunes:duration>1:27:36</itunes:duration>
+		</item><item>
+			<title>Episode 32 - I, Said The Sparrow</title>
+			<itunes:author>Mission Control</itunes:author>
+			<itunes:subtitle>Featuring: Sean Hendry (I, Said The Sparrow)</itunes:subtitle>
+			<itunes:summary><p>Sean Hendry from i, said the sparrow drops by to talk HyperFest, All-ages gigs, finding the only drive in cinema left in WA, insect bites, deadly sea creatures, scary ghost stories and assloads more stuff!</p></itunes:summary>
+			<itunes:image href="http://missionctrl.com.au/template/default_site/assets/img/mc_logo_1400.jpg" />
+			<enclosure url="http://podcasts.missionctrl.com.au/MissionCtrlEpisode32.mp3" length="56491973" type="audio/mpeg" />
+			<guid>http://podcasts.missionctrl.com.au/MissionCtrlEpisode32.mp3</guid>
+			<pubDate>Wed, 9 Apr 2014 15:56:00 +1000</pubDate>
+			<itunes:duration>0:58:50</itunes:duration>
+		</item><item>
+			<title>Episode 31 - Damien Petrilli</title>
+			<itunes:author>Mission Control</itunes:author>
+			<itunes:subtitle>Featuring: Damien Petrilli</itunes:subtitle>
+			<itunes:summary><p>Damien Petrilli is a long time friend, drum teacher and online sales manager at Kosmic Sound who drops by to chat about the approach of effective teaching techniques. We also explore how these skills in music benefit life in general, as we delve into communication, objective thinking, positivity and the construction of knowledge. Damien also shares his thoughts on how to jump-start the live music scene again, and how bands can be innovative when analysing and catering to their markets</p></itunes:summary>
+			<itunes:image href="http://missionctrl.com.au/template/default_site/assets/img/mc_logo_1400.jpg" />
+			<enclosure url="http://podcasts.missionctrl.com.au/MissionCtrlEpisode31.mp3" length="140336658" type="audio/mpeg" />
+			<guid>http://podcasts.missionctrl.com.au/MissionCtrlEpisode31.mp3</guid>
+			<pubDate>Tue, 1 Apr 2014 16:39:00 +1100</pubDate>
+			<itunes:duration>2:26:11</itunes:duration>
+		</item><item>
+			<title>Episode 30 - MH370 (Darrell and Johnny)</title>
+			<itunes:author>Mission Control</itunes:author>
+			<itunes:subtitle>Featuring: Darrell and Johnny</itunes:subtitle>
+			<itunes:summary><p>An entire episode dedicated to the mysterious disappearance of Malaysian Airlines Flight 370, recorded in segments over the span of a few weeks. We discuss in great detail the bizarre circumstances surrounding MH370. We also cross over to Aerospace Engineering student, Mathew Tout, to discuss the ADS-B, FAA, transponders, the Boeing 777&#8217;s Uninterruptible Autopilot Systems, Diego Garcia Airbase, and Flightradar24. We end by discussing multiple theories, which involve Freescale Semiconductor Inc. and the suspicious cargo. ***Note: Since the recording of this podcast, an official announcement has been made declaring MH370 has crashed, and all passengers presumed dead.  There is still speculation as to what happened.</p></itunes:summary>
+			<itunes:image href="http://missionctrl.com.au/template/default_site/assets/img/mc_logo_1400.jpg" />
+			<enclosure url="http://podcasts.missionctrl.com.au/MissionCtrlEpisode30.mp3" length="72172274" type="audio/mpeg" />
+			<guid>http://podcasts.missionctrl.com.au/MissionCtrlEpisode30.mp3</guid>
+			<pubDate>Mon, 24 Mar 2014 17:45:00 +1100</pubDate>
+			<itunes:duration>1:15:10</itunes:duration>
+		</item><item>
+			<title>Episode 29 - Ben Young</title>
+			<itunes:author>Mission Control</itunes:author>
+			<itunes:subtitle>Featuring: Ben Young</itunes:subtitle>
+			<itunes:summary><p>Film director and ARIA award nominee Ben Young chats about his recent work with The John Butler Trio and Voltaire Twins, as well as his upcoming feature film. We talk about all things film related, including crews, gaffas, camera models, the Australian film industry, and much more. We also go deep and touch on UFO&#8217;s, the universe, creationism and intelligent design.</p></itunes:summary>
+			<itunes:image href="http://missionctrl.com.au/template/default_site/assets/img/mc_logo_1400.jpg" />
+			<enclosure url="http://podcasts.missionctrl.com.au/MissionCtrlEpisode29.mp3" length="80934621" type="audio/mpeg" />
+			<guid>http://podcasts.missionctrl.com.au/MissionCtrlEpisode29.mp3</guid>
+			<pubDate>Thu, 27 Feb 2014 17:14:00 +1100</pubDate>
+			<itunes:duration>1:24:18</itunes:duration>
+		</item><item>
+			<title>Episode 28 - Pat Burtscher</title>
+			<itunes:author>Mission Control</itunes:author>
+			<itunes:subtitle>Featuring: Pat Burtscher</itunes:subtitle>
+			<itunes:summary><p>Canadian comedian Pat Burtscher joins the podcast for a quick chat after sellout shows at Perth&#8217;s Fringe Festival. We talk comedy, Canada, camping, the use of psychadelic drugs and ethical consumerism in a capitalist society. Pat is currently touring Australia-wide, including the Melbourne International Comedy Festival for his show &#8220;Overwhelmed&#8221;.</p></itunes:summary>
+			<itunes:image href="http://missionctrl.com.au/template/default_site/assets/img/mc_logo_1400.jpg" />
+			<enclosure url="http://podcasts.missionctrl.com.au/MissionCtrlEpisode28.mp3" length="34383179" type="audio/mpeg" />
+			<guid>http://podcasts.missionctrl.com.au/MissionCtrlEpisode28.mp3</guid>
+			<pubDate>Sat, 22 Feb 2014 18:52:00 +1100</pubDate>
+			<itunes:duration>35:48</itunes:duration>
+		</item><item>
+			<title>Episode 27 - Laith Tierney</title>
+			<itunes:author>Mission Control</itunes:author>
+			<itunes:subtitle>Featuring: Laith Tierney</itunes:subtitle>
+			<itunes:summary><p>Laith Tierney drops by to talk some mysticism, Tarot and his upcoming art exhibition in Philadelphia.  We talk comic book heroes, good and lame and the power of crowdfunding. Laith is involved in numerous projects, including LYTS and the music app Farugi.</p></itunes:summary>
+			<itunes:image href="http://missionctrl.com.au/template/default_site/assets/img/mc_logo_1400.jpg" />
+			<enclosure url="http://podcasts.missionctrl.com.au/MissionCtrlEpisode27.mp3" length="87307255" type="audio/mpeg" />
+			<guid>http://podcasts.missionctrl.com.au/MissionCtrlEpisode27.mp3</guid>
+			<pubDate>Mon, 17 Feb 2014 19:09:00 +1100</pubDate>
+			<itunes:duration>1:30:56</itunes:duration>
+		</item><item>
+			<title>Episode 26 - Tomas Ford</title>
+			<itunes:author>Mission Control</itunes:author>
+			<itunes:subtitle>Featuring: Tomas Ford</itunes:subtitle>
+			<itunes:summary><p>The man himself - Tomas Ford drops by to speak about gracing the front cover of Xpress Magazine, Fringe Festival, the genesis of his provocative stage show, comparing penis sizes and much more!</p></itunes:summary>
+			<itunes:image href="http://missionctrl.com.au/template/default_site/assets/img/mc_logo_1400.jpg" />
+			<enclosure url="http://podcasts.missionctrl.com.au/MissionCtrlEpisode26.mp3" length="53365197" type="audio/mpeg" />
+			<guid>http://podcasts.missionctrl.com.au/MissionCtrlEpisode26.mp3</guid>
+			<pubDate>Thu, 13 Feb 2014 02:20:00 +1100</pubDate>
+			<itunes:duration>0:55:09</itunes:duration>
+		</item><item>
+			<title>Episode 25 - Timothy Nelson</title>
+			<itunes:author>Mission Control</itunes:author>
+			<itunes:subtitle>Featuring: Timothy Nelson</itunes:subtitle>
+			<itunes:summary><p>Timothy Nelson (Timothy Nelson and the Infidels) drops by to speak about his new album in the works, the writing process, hilarious LA stories, Schapelle Corby&#8217;s release, Marijuana Legalisation and much more hilarity. We also feature the track &#8220;Mary Lou&#8221;.</p></itunes:summary>
+			<itunes:image href="http://missionctrl.com.au/template/default_site/assets/img/mc_logo_1400.jpg" />
+			<enclosure url="http://podcasts.missionctrl.com.au/MissionCtrlEpisode25.mp3" length="75341948" type="audio/mpeg" />
+			<guid>http://podcasts.missionctrl.com.au/MissionCtrlEpisode25.mp3</guid>
+			<pubDate>Wed, 12 Feb 2014 02:15:00 +1100</pubDate>
+			<itunes:duration>1:18:29</itunes:duration>
+		</item><item>
+			<title>Episode 24 - Tired Lion</title>
+			<itunes:author>Mission Control</itunes:author>
+			<itunes:subtitle>Featuring: Sophie and Matt (Tired Lion)</itunes:subtitle>
+			<itunes:summary><p>The music industry, festivals, Triple J controversy, shark culling, tacos, pornstars, fuel prices and dodgy taxis. An amusing chat ensues as Sophie and Matt from Tired Lion drop by. We touch on a variety of topics and end with a track off their EP Are &#8216;You Listening&#8230;Listener&#8217;</p></itunes:summary>
+			<itunes:image href="http://missionctrl.com.au/template/default_site/assets/img/mc_logo_1400.jpg" />
+			<enclosure url="http://podcasts.missionctrl.com.au/MissionCtrlEpisode24.mp3" length="61991872" type="audio/mpeg" />
+			<guid>http://podcasts.missionctrl.com.au/MissionCtrlEpisode24.mp3</guid>
+			<pubDate>Wed, 29 Jan 2014 02:33:00 +1100</pubDate>
+			<itunes:duration>1:04:34</itunes:duration>
+		</item><item>
+			<title>Episode 23 - Alex Canion (Voyager)</title>
+			<itunes:author>Mission Control</itunes:author>
+			<itunes:subtitle>Featuring: Alex Canion</itunes:subtitle>
+			<itunes:summary><p>Alex Canion drops by as the first guest of 2014 to talk about Voyager&#8217;s latest single &#8220;Breaking Down&#8221; which recently debuted on Triple J. We look back briefly on the very first podcast episode, the metal music scene and talk about guitar gear and equipment and Voyager&#8217;s upcoming shows.</p></itunes:summary>
+			<itunes:image href="http://missionctrl.com.au/template/default_site/assets/img/mc_logo_1400.jpg" />
+			<enclosure url="http://podcasts.missionctrl.com.au/MissionCtrlEpisode23.mp3" length="78813490" type="audio/mpeg" />
+			<guid>http://podcasts.missionctrl.com.au/MissionCtrlEpisode23.mp3</guid>
+			<pubDate>Sun, 26 Jan 2014 17:52:00 +1100</pubDate>
+			<itunes:duration>1:22:06</itunes:duration>
+		</item><item>
+			<title>Episode 22 - Deer Santa (Live from The Bakery)</title>
+			<itunes:author>Mission Control</itunes:author>
+			<itunes:subtitle>Featuring: Various guests</itunes:subtitle>
+			<itunes:summary><p>Recorded live at The Bakery on the 21st December during &#8216;Deer Santa&#8217; - An all-day event which features local independant stalls and acoustic acts during the day, and a 12 band lineup at night.</p></itunes:summary>
+			<itunes:image href="http://missionctrl.com.au/template/default_site/assets/img/mc_logo_1400.jpg" />
+			<enclosure url="http://podcasts.missionctrl.com.au/MissionCtrlEpisode22.mp3" length="113873944" type="audio/mpeg" />
+			<guid>http://podcasts.missionctrl.com.au/MissionCtrlEpisode22.mp3</guid>
+			<pubDate>Tue, 24 Dec 2013 17:22:00 +1100</pubDate>
+			<itunes:duration>1:58:37</itunes:duration>
+		</item><item>
+			<title>Episode 21 - Mathew Tout</title>
+			<itunes:author>Mission Control</itunes:author>
+			<itunes:subtitle>Featuring: Mathew Tout</itunes:subtitle>
+			<itunes:summary><p>Matthew Tout is a long time friend, studying Engineering (Aerospace) at Melbourne&#8217;s RMIT. We talk about the impact of technology on the photography industry, and we also have an extensive talk about all things Aerospace - including controversial Drone technology, airplanes, miracle landings and much more.</p></itunes:summary>
+			<itunes:image href="http://missionctrl.com.au/template/default_site/assets/img/mc_logo_1400.jpg" />
+			<enclosure url="http://podcasts.missionctrl.com.au/MissionCtrlEpisode21.mp3" length="147412249" type="audio/mpeg" />
+			<guid>http://podcasts.missionctrl.com.au/MissionCtrlEpisode21.mp3</guid>
+			<pubDate>Mon, 9 Dec 2013 17:28:00 +1100</pubDate>
+			<itunes:duration>2:33:33</itunes:duration>
+		</item><item>
+			<title>Episode 20 - Jen Adams</title>
+			<itunes:author>Mission Control</itunes:author>
+			<itunes:subtitle>Featuring: Jen Adams (Anti BSL Activist)</itunes:subtitle>
+			<itunes:summary><p>Breed Specific Legislation allows the government to declare certain breeds of dogs as &#8216;dangerous&#8217;. Jen Adams, an activist against BSL, speaks about the problems with this type of legislation, which discriminates against the breed of the dog and fails to address the treatment of the dog by its owner. Jen expresses the struggle to get the government to reconsider these laws, but also talks about the small victories she has achieved along the way, receiving support from the community.</p></itunes:summary>
+			<itunes:image href="http://missionctrl.com.au/template/default_site/assets/img/mc_logo_1400.jpg" />
+			<enclosure url="http://podcasts.missionctrl.com.au/MissionCtrlEpisode20.mp3" length="43704458" type="audio/mpeg" />
+			<guid>http://podcasts.missionctrl.com.au/MissionCtrlEpisode20.mp3</guid>
+			<pubDate>Mon, 18 Nov 2013 17:33:00 +1100</pubDate>
+			<itunes:duration>45:31</itunes:duration>
+		</item><item>
+			<title>Episode 19 - Darrell and Johnny</title>
+			<itunes:author>Mission Control</itunes:author>
+			<itunes:subtitle>Featuring hosts: Darrell Sundai and Johnny G</itunes:subtitle>
+			<itunes:summary><p>We re-cap on our awesome day at WAM&#8217;s Saturday Spectacular, talking about the good and the bad of the day, while briefly touching on the bands we enjoyed and events in between. We also mention the upcoming Beaufort Street Festival on the 16 of November</p></itunes:summary>
+			<itunes:image href="http://missionctrl.com.au/template/default_site/assets/img/mc_logo_1400.jpg" />
+			<enclosure url="http://podcasts.missionctrl.com.au/MissionCtrlEpisode19.mp3" length="33920208" type="audio/mpeg" />
+			<guid>http://podcasts.missionctrl.com.au/MissionCtrlEpisode19.mp3</guid>
+			<pubDate>Tue, 12 Nov 2013 19:00:00 +1100</pubDate>
+			<itunes:duration>35:20</itunes:duration>
+		</item><item>
+			<title>Episode 18 - Tim Ayre</title>
+			<itunes:author>Mission Control</itunes:author>
+			<itunes:subtitle>Featuring: Tim Ayre (Tim and Jean / The Lazy Calm / Hooch)</itunes:subtitle>
+			<itunes:summary><p>Tim Ayre (Tim &amp; Jean/The Lazy Calm) stops by with his new single “Paper Dreams”. We talk about radio and what high rotation means for bands. We also talk about the seasonal cycles of the Australian music scene, Tim’s successful “Hooch” events, Religion, New Age Spirituality, Secret Societies and their strange practices.</p></itunes:summary>
+			<itunes:image href="http://missionctrl.com.au/template/default_site/assets/img/mc_logo_1400.jpg" />
+			<enclosure url="http://podcasts.missionctrl.com.au/MissionCtrlEpisode18.mp3" length="92282235" type="audio/mpeg" />
+			<guid>http://podcasts.missionctrl.com.au/MissionCtrlEpisode18.mp3</guid>
+			<pubDate>Mon, 4 Nov 2013 19:00:00 +1100</pubDate>
+			<itunes:duration>1:36:07</itunes:duration>
+		</item><item>
+			<title>Episode 17 - Mith Von Voodoo</title>
+			<itunes:author>Mission Control</itunes:author>
+			<itunes:subtitle>Featuring: Mith Von Voodoo</itunes:subtitle>
+			<itunes:summary><p>Happy Halloween! Join us with Mith Von Voodoo as we talk about the origins of Halloween, the mysterious death of Vancouver student Elisa Lam, along with general scary stories and movies.</p></itunes:summary>
+			<itunes:image href="http://missionctrl.com.au/template/default_site/assets/img/mc_logo_1400.jpg" />
+			<enclosure url="http://podcasts.missionctrl.com.au/MissionCtrlEpisode17.mp3" length="50970699" type="audio/mpeg" />
+			<guid>http://podcasts.missionctrl.com.au/MissionCtrlEpisode17.mp3</guid>
+			<pubDate>Sat, 2 Nov 2013 19:00:00 +1100</pubDate>
+			<itunes:duration>53:05</itunes:duration>
+		</item><item>
+			<title>Episode 16 - Joel Birch</title>
+			<itunes:author>Mission Control</itunes:author>
+			<itunes:subtitle>Featuring: Joel Birch </itunes:subtitle>
+			<itunes:summary><p>Fellow friend and teacher, Joel Birch, stops by to give his take on education, what is lacking in the curriculum today, and how the exponentially increasing access to technology and information is impacting on the classroom. We talk about alternative teaching methods, effort based recognition and grading, and the future of Australia&#8217;s education.</p></itunes:summary>
+			<itunes:image href="http://missionctrl.com.au/template/default_site/assets/img/mc_logo_1400.jpg" />
+			<enclosure url="http://podcasts.missionctrl.com.au/MissionCtrlEpisode16.mp3" length="103313791" type="audio/mpeg" />
+			<guid>http://podcasts.missionctrl.com.au/MissionCtrlEpisode16.mp3</guid>
+			<pubDate>Mon, 21 Oct 2013 19:00:00 +1100</pubDate>
+			<itunes:duration>1:47:37</itunes:duration>
+		</item><item>
+			<title>Episode 15 - Dave Anderton (Chaos Divine)</title>
+			<itunes:author>Mission Control</itunes:author>
+			<itunes:subtitle>Featuring: Dave Anderton (Chaos Divine)</itunes:subtitle>
+			<itunes:summary><p>Frontman of Perth metal band Chaos Divine talks about his obsession with the Terminator series, along with his other favourites. We talk about environmental issues, nuclear power, renewable energy sources and being manhandled by security while attempting to meet Soundgarden backstage. We also announce Chaos Divine&#8217;s national tour in late October.</p></itunes:summary>
+			<itunes:image href="http://missionctrl.com.au/template/default_site/assets/img/mc_logo_1400.jpg" />
+			<enclosure url="http://podcasts.missionctrl.com.au/MissionCtrlEpisode15.mp3" length="95468465" type="audio/mpeg" />
+			<guid>http://podcasts.missionctrl.com.au/MissionCtrlEpisode15.mp3</guid>
+			<pubDate>Mon, 14 Oct 2013 18:00:00 +1100</pubDate>
+			<itunes:duration>1:39:26</itunes:duration>
+		</item><item>
+			<title>Episode 14 - Stuart Edwards</title>
+			<itunes:author>Mission Control</itunes:author>
+			<itunes:subtitle>Featuring: Stuart Edwards (Author)</itunes:subtitle>
+			<itunes:summary><p>Stuart Edwards, author of the book &#8220;The Wiring Under The Board: A New World Order&#8221; stops by to chat about how the book came about. We touch on many subjects featured in the book, including what the idea of the New World Order is and the repercussions that may occur. We also talk about several controversial topics including, re-investigating 9/11, Fluoridation of our water supply and the propaganda machine of Hollywood.</p></itunes:summary>
+			<itunes:image href="http://missionctrl.com.au/template/default_site/assets/img/mc_logo_1400.jpg" />
+			<enclosure url="http://podcasts.missionctrl.com.au/MissionCtrlEpisode14.mp3" length="69998014" type="audio/mpeg" />
+			<guid>http://podcasts.missionctrl.com.au/MissionCtrlEpisode14.mp3</guid>
+			<pubDate>Mon, 7 Oct 2013 18:00:00 +1100</pubDate>
+			<itunes:duration>1:12:54</itunes:duration>
+		</item><item>
+			<title>Episode 13 - Roland Lim (Sync Studios)</title>
+			<itunes:author>Mission Control</itunes:author>
+			<itunes:subtitle>Featuring: Roland Lim (Sync Studios)</itunes:subtitle>
+			<itunes:summary><p>Singaporean based producer and owner of Sync Studios, Roland Lim stops by to talk about the production and marketing side of the music industry. We dig through the past, touching on the early days in the band Seraphim, all the way to producing bands such as Make Them Suffer (Roadrunner Records). Roland shares his advice on the mistakes that bands often make in terms of the writing process, marketing and utilising the band as a business.</p></itunes:summary>
+			<itunes:image href="http://missionctrl.com.au/template/default_site/assets/img/mc_logo_1400.jpg" />
+			<enclosure url="http://podcasts.missionctrl.com.au/MissionCtrlEpisode13.mp3" length="58463443" type="audio/mpeg" />
+			<guid>http://podcasts.missionctrl.com.au/MissionCtrlEpisode13.mp3</guid>
+			<pubDate>Mon, 30 Sep 2013 22:20:00 +1000</pubDate>
+			<itunes:duration>1:00:53</itunes:duration>
+		</item><item>
+			<title>Episode 12 - Laith Tierney</title>
+			<itunes:author>Mission Control</itunes:author>
+			<itunes:subtitle>Featuring: Laith Tierney</itunes:subtitle>
+			<itunes:summary><p>Hosts Darrell and Johnny creep each other out by talking about classic and current horror movies, including Insidious and The Conjuring. Laith joins the podcast, diving right into travel stories in the USA with horrendous New York accents, The Occult (Thelema) and Aleister Crowley as well as a good dose of Music, thoughts on the local scene and general hilarity.</p></itunes:summary>
+			<itunes:image href="http://missionctrl.com.au/template/default_site/assets/img/mc_logo_1400.jpg" />
+			<enclosure url="http://podcasts.missionctrl.com.au/MissionCtrlEpisode12.mp3" length="104998208" type="audio/mpeg" />
+			<guid>http://podcasts.missionctrl.com.au/MissionCtrlEpisode12.mp3</guid>
+			<pubDate>Wed, 25 Sep 2013 18:33:00 +1000</pubDate>
+			<itunes:duration>1:49:22</itunes:duration>
+		</item><item>
+			<title>Episode 11 - Darrell and Johnny</title>
+			<itunes:author>Mission Control</itunes:author>
+			<itunes:subtitle>Featuring: Darrell and Johnny</itunes:subtitle>
+			<itunes:summary><p>Mission Control hosts Darrell and Johnny record from the peak of Hanging Rock, Victoria. We cover our trips abroad and take the time to reflect on past episodes. We also cover many topics including Russell Brand&#8217;s controversial Nazi comments during an award ceremony, as well as talking about the concept and future of the podcast.</p></itunes:summary>
+			<itunes:image href="http://missionctrl.com.au/template/default_site/assets/img/mc_logo_1400.jpg" />
+			<enclosure url="http://podcasts.missionctrl.com.au/MissionCtrlEpisode11.mp3" length="84863798" type="audio/mpeg" />
+			<guid>http://podcasts.missionctrl.com.au/MissionCtrlEpisode11.mp3</guid>
+			<pubDate>Mon, 16 Sep 2013 17:53:00 +1000</pubDate>
+			<itunes:duration>1:28:24</itunes:duration>
+		</item><item>
+			<title>Episode 10 - Drew Goddard (Karnivool)</title>
+			<itunes:author>Mission Control</itunes:author>
+			<itunes:subtitle>Featuring: Drew Goddard (Karnivool)</itunes:subtitle>
+			<itunes:summary><p>Drew Goddard from Karnivool drops by to talk about his feelings on the state of the world and consciousness. We delve into several topics including creativity, music and also Reconciliation and the Aboriginal culture. We also discuss the use of psychedelic drugs and their potential benefits on human consciousness and empathy as Drew describes his experience with the powerful hallucinogenic - Dimethyltryptamine (DMT).</p></itunes:summary>
+			<itunes:image href="http://missionctrl.com.au/template/default_site/assets/img/mc_logo_1400.jpg" />
+			<enclosure url="http://podcasts.missionctrl.com.au/MissionCtrlEpisode10.mp3" length="92863556" type="audio/mpeg" />
+			<guid>http://podcasts.missionctrl.com.au/MissionCtrlEpisode10.mp3</guid>
+			<pubDate>Mon, 2 Sep 2013 16:15:00 +1000</pubDate>
+			<itunes:duration>1:36:44</itunes:duration>
+		</item><item>
+			<title>Episode 9 - Kenta McGrath</title>
+			<itunes:author>Mission Control</itunes:author>
+			<itunes:subtitle>Featuring: Kenta McGrath</itunes:subtitle>
+			<itunes:summary><p>Kenta McGrath is a local award winning film-maker who has had several incidents with the AFP and Counter-terrorism Unit due to filming on location in various spots in WA. Beginning in Albany, all the way to Perth International Airport, Kenta tells his story in great detail about the three incidents where he and his crew were followed, searched and interrogated with no real probable cause. Kenta also plays in local band &#8216;Bamodi&#8217;.</p></itunes:summary>
+			<itunes:image href="http://missionctrl.com.au/template/default_site/assets/img/mc_logo_1400.jpg" />
+			<enclosure url="http://podcasts.missionctrl.com.au/MissionCtrlEpisode9.mp3" length="55293918" type="audio/mpeg" />
+			<guid>http://podcasts.missionctrl.com.au/MissionCtrlEpisode9.mp3</guid>
+			<pubDate>Mon, 26 Aug 2013 16:11:00 +1000</pubDate>
+			<itunes:duration>53:03</itunes:duration>
+		</item><item>
+			<title>Episode 8 - Tegan and Jaymes (Voltaire Twins)</title>
+			<itunes:author>Mission Control</itunes:author>
+			<itunes:subtitle>Featuring: James and Tegan (The Voltaire Twins)</itunes:subtitle>
+			<itunes:summary><p>The Voltaire Twins bid farewell to Perth, as they move to Melbourne to record their full length album. We talk about the reasons behind the big move, the band&#8217;s evolution, the &#8220;Golden Age&#8221; of live music in Perth, as well as how the local music scene has changed over the years. We also delve into the distasteful side of the music industry - critics in print media, mass marketing, festival inflation and culture creation.</p></itunes:summary>
+			<itunes:image href="http://missionctrl.com.au/template/default_site/assets/img/mc_logo_1400.jpg" />
+			<enclosure url="http://podcasts.missionctrl.com.au/MissionCtrlEpisode8.mp3" length="63905566" type="audio/mpeg" />
+			<guid>http://podcasts.missionctrl.com.au/MissionCtrlEpisode8.mp3</guid>
+			<pubDate>Mon, 19 Aug 2013 16:07:00 +1000</pubDate>
+			<itunes:duration>1:06:01</itunes:duration>
+		</item><item>
+			<title>Episode 7 - Mike Murphy (Boys Boys Boys, Simone and Girlfunkle)</title>
+			<itunes:author>Mission Control</itunes:author>
+			<itunes:subtitle>Featuring: Mikey Murphy (Boys Boys Boys, Simone and Girlfunkle)</itunes:subtitle>
+			<itunes:summary><p>Mike Murphy (Boys Boys Boys, Simone &amp; Girlfunkle) joins the podcast to talk about rekindling his love of Gaming. We discuss the recent console war between Xbox and Playstation as well as our favourite titles. We also celebrate 2 very important events on this date - the death of martial artist and actor, Bruce Lee, and the Moon Landing.</p></itunes:summary>
+			<itunes:image href="http://missionctrl.com.au/template/default_site/assets/img/mc_logo_1400.jpg" />
+			<enclosure url="http://podcasts.missionctrl.com.au/MissionCtrlEpisode7.mp3" length="53301527" type="audio/mpeg" />
+			<guid>http://podcasts.missionctrl.com.au/MissionCtrlEpisode7.mp3</guid>
+			<pubDate>Tue, 30 Jul 2013 15:58:00 +1000</pubDate>
+			<itunes:duration>54:59</itunes:duration>
+		</item><item>
+			<title>Episode 6 - Connor and Sebastian</title>
+			<itunes:author>Mission Control</itunes:author>
+			<itunes:subtitle>Featuring: Connor Gamble and Sebastian Kane</itunes:subtitle>
+			<itunes:summary><p>A Father&#8217;s Day episode, where Sebastian and Connor drop by to talk abour their thoughts on recent movies (possible spoilers) such as The Dark Knight Rises and Prometheus. We also talk about the information war and the future of the internet and social media.</p></itunes:summary>
+			<itunes:image href="http://missionctrl.com.au/template/default_site/assets/img/mc_logo_1400.jpg" />
+			<enclosure url="http://podcasts.missionctrl.com.au/MissionCtrlEpisode6.mp3" length="59298428" type="audio/mpeg" />
+			<guid>http://podcasts.missionctrl.com.au/MissionCtrlEpisode6.mp3</guid>
+			<pubDate>Sun, 2 Sep 2012 17:57:00 +1000</pubDate>
+			<itunes:duration>1:01:13</itunes:duration>
+		</item><item>
+			<title>Episode 5 - Mike Murphy (Boys Boys Boys)</title>
+			<itunes:author>Mission Control</itunes:author>
+			<itunes:subtitle>Featuring: Mike Murphy (Boys Boys Boys)</itunes:subtitle>
+			<itunes:summary><p>Mike Murphy from Boys Boys Boys drops by to tell us about what he&#8217;s been up to lately with his band, as well as his trip to China. We discuss the Forbidden City in China, market sellers at the Great Wall, as well as the history, architecture and culture within its immense population.</p></itunes:summary>
+			<itunes:image href="http://missionctrl.com.au/template/default_site/assets/img/mc_logo_1400.jpg" />
+			<enclosure url="http://podcasts.missionctrl.com.au/MissionCtrlEpisode5.mp3" length="52152161" type="audio/mpeg" />
+			<guid>http://podcasts.missionctrl.com.au/MissionCtrlEpisode5.mp3</guid>
+			<pubDate>Wed, 6 Jun 2012 15:56:00 +1000</pubDate>
+			<itunes:duration>53:47</itunes:duration>
+		</item><item>
+			<title>Episode 4 - Tegan (Voltaire Twins)</title>
+			<itunes:author>Mission Control</itunes:author>
+			<itunes:subtitle>Featuring: Tegan Thorogood </itunes:subtitle>
+			<itunes:summary><p>Tegan from the Voltaire Twins drops by to tell us about the buzz around their latest video clips. We delve into our Highschool lives and atrocious fake tans. Tegan also talks about being a temporary vegetarian, Australians getting arrested at South By Southwest in Austin TX and nice Canadians.</p></itunes:summary>
+			<itunes:image href="http://missionctrl.com.au/template/default_site/assets/img/mc_logo_1400.jpg" />
+			<enclosure url="http://podcasts.missionctrl.com.au/MissionCtrlEpisode4.mp3" length="56582358" type="audio/mpeg" />
+			<guid>http://podcasts.missionctrl.com.au/MissionCtrlEpisode4.mp3</guid>
+			<pubDate>Wed, 23 May 2012 15:55:00 +1000</pubDate>
+			<itunes:duration>58:24</itunes:duration>
+		</item><item>
+			<title>Episode 3 - Connor Gamble (Husband)</title>
+			<itunes:author>Mission Control</itunes:author>
+			<itunes:subtitle>Featuring: Connor Gamble (Husband)</itunes:subtitle>
+			<itunes:summary><p>We discuss the hardships of quitting smoking, as Connor initiates himself into the &#8220;Non-Smoking&#8221; club. We also talk about the hypocritical approach to criminalizing drugs, marijuana, the dangers of fast food and killer robots in the future.</p></itunes:summary>
+			<itunes:image href="http://missionctrl.com.au/template/default_site/assets/img/mc_logo_1400.jpg" />
+			<enclosure url="http://podcasts.missionctrl.com.au/MissionCtrlEpisode3.mp3" length="46262945" type="audio/mpeg" />
+			<guid>http://podcasts.missionctrl.com.au/MissionCtrlEpisode3.mp3</guid>
+			<pubDate>Tue, 15 May 2012 15:49:00 +1000</pubDate>
+			<itunes:duration>47:39</itunes:duration>
+		</item><item>
+			<title>Episode 2 - Ever Eden and Nic Morien</title>
+			<itunes:author>Mission Control</itunes:author>
+			<itunes:subtitle>Featuring: Ever Eden and Nic Morien</itunes:subtitle>
+			<itunes:summary><p>Ever Eden talks about the boosted security measures coming up in the 2012 London Olympics, as well as the possibility of dangerous body scanners being implemented around Australia.</p></itunes:summary>
+			<itunes:image href="http://missionctrl.com.au/template/default_site/assets/img/mc_logo_1400.jpg" />
+			<enclosure url="http://podcasts.missionctrl.com.au/MissionCtrlEpisode2.mp3" length="38368532" type="audio/mpeg" />
+			<guid>http://podcasts.missionctrl.com.au/MissionCtrlEpisode2.mp3</guid>
+			<pubDate>Sat, 12 May 2012 15:47:00 +1000</pubDate>
+			<itunes:duration>39:25</itunes:duration>
+		</item><item>
+			<title>Episode 1 - Alex Canion, Scott Kay (Voyager)</title>
+			<itunes:author>Mission Control</itunes:author>
+			<itunes:subtitle>Featuring: Alex Canion, Scott Kay (Voyager)</itunes:subtitle>
+			<itunes:summary><p>A 2 hour long debut special of Mission Control, featuring members of the Perth band, &#8216;Voyager&#8217;, who discuss their origins in local metal scene, music, going deaf or blind, illegal downloading, the United States of America and delicious fast food.</p></itunes:summary>
+			<itunes:image href="http://missionctrl.com.au/template/default_site/assets/img/mc_logo_1400.jpg" />
+			<enclosure url="http://podcasts.missionctrl.com.au/MissionCtrlEpisode1.mp3" length="149629267" type="audio/mpeg" />
+			<guid>http://podcasts.missionctrl.com.au/MissionCtrlEpisode1.mp3</guid>
+			<pubDate>Fri, 11 May 2012 15:48:00 +1000</pubDate>
+			<itunes:duration>2:35:19</itunes:duration>
+		</item>
+
+	</channel>
+
+</rss>
